@@ -1,5 +1,13 @@
+import Header from "./Header";
+import Wheel from "./Wheel";
+
 function App() {
-  return <>ee</>;
+  return (
+    <>
+      <Header />
+      <Wheel />
+    </>
+  );
 }
 
 export default App;
